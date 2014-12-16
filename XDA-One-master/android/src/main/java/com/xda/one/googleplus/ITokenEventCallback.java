@@ -1,4 +1,4 @@
-package com.com.xda.one.googleplus;
+package com.xda.one.googleplus;
 
 /**
  * Created by akhil on 11/12/14.

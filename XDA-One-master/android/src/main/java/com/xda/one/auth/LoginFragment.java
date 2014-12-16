@@ -14,8 +14,6 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
 
-import com.com.xda.one.googleplus.GPlusLoginClass;
-import com.com.xda.one.googleplus.ITokenEventCallback;
 import com.google.android.gms.common.ConnectionResult;
 import com.google.android.gms.common.api.GoogleApiClient;
 import com.squareup.otto.Subscribe;
@@ -24,6 +22,8 @@ import com.xda.one.api.inteface.UserClient;
 import com.xda.one.api.retrofit.RetrofitUserClient;
 import com.xda.one.event.user.UserLoginEvent;
 import com.xda.one.event.user.UserLoginFailedEvent;
+import com.xda.one.googleplus.GPlusLoginClass;
+import com.xda.one.googleplus.ITokenEventCallback;
 import com.xda.one.ui.listener.MultipleNonEmptyTextViewListener;
 import com.xda.one.util.FragmentUtils;
 

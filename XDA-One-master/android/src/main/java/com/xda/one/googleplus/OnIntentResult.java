@@ -1,4 +1,4 @@
-package com.com.xda.one.googleplus;
+package com.xda.one.googleplus;
 
 import android.content.Intent;
 

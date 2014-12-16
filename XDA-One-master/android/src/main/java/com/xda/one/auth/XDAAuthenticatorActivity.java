@@ -6,15 +6,15 @@ import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentActivity;
 import android.util.Log;
 
-import com.com.xda.one.googleplus.GPlusImpl;
-import com.com.xda.one.googleplus.GPlusLoginClass;
-import com.com.xda.one.googleplus.ITokenEventCallback;
-import com.com.xda.one.googleplus.OnIntentResult;
 import com.google.android.gms.common.api.CommonStatusCodes;
 import com.google.android.gms.common.api.ResultCallback;
 import com.google.android.gms.plus.People;
 import com.google.android.gms.plus.model.people.PersonBuffer;
 import com.xda.one.R;
+import com.xda.one.googleplus.GPlusImpl;
+import com.xda.one.googleplus.GPlusLoginClass;
+import com.xda.one.googleplus.ITokenEventCallback;
+import com.xda.one.googleplus.OnIntentResult;
 
 public class XDAAuthenticatorActivity extends FragmentActivity implements ResultCallback<People.LoadPeopleResult> {
 

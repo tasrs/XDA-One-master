@@ -1,4 +1,4 @@
-package com.com.xda.one.googleplus;
+package com.xda.one.googleplus;
 
 import android.os.Bundle;
 import android.support.v4.app.Fragment;

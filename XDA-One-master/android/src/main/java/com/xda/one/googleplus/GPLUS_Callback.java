@@ -1,4 +1,4 @@
-package com.com.xda.one.googleplus;
+package com.xda.one.googleplus;
 
 import com.google.android.gms.common.api.GoogleApiClient;
 import com.google.android.gms.plus.PlusClient;
