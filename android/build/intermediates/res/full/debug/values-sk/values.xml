@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/C:/Users/Sitaram%20Sharma/Documents/GitHub/XDA-One-master/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values-sk/values.xml -->
+    <eat-comment/>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Prejsť na plochu"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Prejsť hore"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Ďalšie možnosti"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Hotovo"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Zobraziť všetko"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Zvoľte aplikáciu"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Vymazať dopyt"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Vyhľadávací dopyt"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Hľadať"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Odoslať dopyt"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Hlasové vyhľadávanie"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Zdieľať pomocou"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Zdieľať pomocou %s"</string>
+    <!-- From: file:/C:/Users/Sitaram%20Sharma/Documents/GitHub/XDA-One-master/android/src/main/res/values-sk/strings.xml -->
+    <eat-comment/>
+    <string name="about">Informácie</string>
+    <string name="app_name">XDA One</string>
+    <string name="avatar">Avatar</string>
+    <string name="change_email_address">Zmeniť e-mailovú adresu</string>
+    <string name="change_password">Zmeniť heslo</string>
+    <!-- From: file:/C:/Users/Sitaram%20Sharma/Documents/GitHub/XDA-One-master/android/build/intermediates/exploded-aar/com.google.android.gms/play-services/5.0.89/res/values-sk/common_strings.xml -->
+    <eat-comment/>
+    <string msgid="4181637455539816337" name="common_google_play_services_enable_button">"Povoliť služby Google Play"</string>
+    <string msgid="7627896071867667758" name="common_google_play_services_enable_text">"Táto aplikácia bude fungovať až po povolení služieb Google Play."</string>
+    <string msgid="529078775174559253" name="common_google_play_services_enable_title">"Povoliť služby Google Play"</string>
+    <string msgid="2443362625939284971" name="common_google_play_services_error_notification_requested_by_msg">"Vyžiadané aplikáciou <ns1:g id="APP_NAME">%1$s</ns1:g>"</string>
+    <string msgid="8515591849428043265" name="common_google_play_services_install_button">"Inštalovať služby Google Play"</string>
+    <string msgid="8685301130651051380" name="common_google_play_services_install_text_phone">"Na spustenie tejto aplikácie sa vyžadujú služby Google Play, ktoré v telefóne nemáte."</string>
+    <string msgid="1589957570365247855" name="common_google_play_services_install_text_tablet">"Na spustenie tejto aplikácie sa vyžadujú služby Google Play, ktoré v tablete nemáte."</string>
+    <string msgid="26645092511305524" name="common_google_play_services_install_title">"Inštalovať služby Google Play"</string>
+    <string msgid="4983316348021735578" name="common_google_play_services_invalid_account_text">"Zadaný účet v tomto zariadení neexistuje. Vyberte iný účet."</string>
+    <string msgid="1066672360770936753" name="common_google_play_services_invalid_account_title">"Neplatný účet"</string>
+    <string msgid="2583358409598976717" name="common_google_play_services_needs_enabling_title">"Aplikácia vyžaduje povolenie služieb Google Play."</string>
+    <string msgid="9038847255613537209" name="common_google_play_services_network_error_text">"Pripojenie k službám Google Play si vyžaduje dátové pripojenie."</string>
+    <string msgid="3827284619958211114" name="common_google_play_services_network_error_title">"Chyba siete"</string>
+    <string msgid="8120534356798772974" name="common_google_play_services_notification_needs_installation_title">"Aplikácia vyžaduje inštaláciu služieb Google Play."</string>
+    <string msgid="1388129345631079938" name="common_google_play_services_notification_needs_update_title">"Aplikácia vyžaduje aktualizáciu služieb Google Play."</string>
+    <string msgid="1852570676146674985" name="common_google_play_services_notification_ticker">"Chyba služieb Google Play"</string>
+    <string msgid="4762332809710093730" name="common_google_play_services_unknown_issue">"Neznámy problém so službami Google Play."</string>
+    <string msgid="4725396522367789365" name="common_google_play_services_unsupported_date_text">"Dátum nastavený v zariadení sa zdá byť nesprávny. Skontrolujte ho."</string>
+    <string msgid="3542578567569488671" name="common_google_play_services_unsupported_text">"Niektoré vaše aplikácie vyžadujú služby Google Play, ktoré vo vašom zariadení nie sú podporované. Ak potrebujete pomoc, kontaktujte výrobcu."</string>
+    <string msgid="6334768798839376943" name="common_google_play_services_unsupported_title">"Služby Google Play"</string>
+    <string msgid="8932944190611227642" name="common_google_play_services_update_button">"Aktualizovať"</string>
+    <string msgid="448354684997260580" name="common_google_play_services_update_text">"Túto aplikáciu bude možné spustiť až po aktualizácii služieb Google Play."</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">"Aktualizovať služby Google Play"</string>
+    <string msgid="9071884888741449141" name="common_signin_button_text">"Prihlásiť sa"</string>
+    <string msgid="2429381841831957106" name="common_signin_button_text_long">"Prihlásiť sa do účtu Google"</string>
+    <!-- From: file:/C:/Users/Sitaram%20Sharma/Documents/GitHub/XDA-One-master/android/src/main/res/values-sk/strings.xml -->
+    <eat-comment/>
+    <string name="content">Obsah</string>
+    <string name="count">Počet</string>
+    <string name="creating_new_post">Vytváranie…</string>
+    <string name="d_items_checked">%d zvolených</string>
+    <string name="date">Dátum</string>
+    <string name="delete">Vymazať</string>
+    <string name="dont_have_xda_account">
+        <![CDATA[Nemáte ešte účet na xda-developers?]]></string>
+    <string name="drawer_close">Zavrieť</string>
+    <string name="drawer_open">Otvoriť</string>
+    <string name="email">E-mail</string>
+    <string name="failed_to_get_forum">Zlyhanie získavania URL položiek</string>
+    <string name="failed_to_logout">Odhlásenie bolo neúspešné</string>
+    <string name="find_a_device">Nájsť zariadenie</string>
+    <string name="find_your_device">Nájdi svoje tariadenie</string>
+    <string name="find_your_device_title">Nájdi svoje zariadenie</string>
+    <string name="forum_all_title">Všetko</string>
+    <string name="forum_general_title">Všeobecné</string>
+    <string name="forum_home_title">XDA Domov</string>
+    <string name="forum_newest_title">Nové</string>
+    <string name="forum_subscription_subscribed">Odteraz sledujete toto fórum</string>
+    <string name="forum_subscription_toggle_failed">Zvolenie sledovania fóra zlyhalo</string>
+    <string name="forum_subscription_unsubscribed">Odteraz nesledujete toto fórum</string>
+    <string name="forum_title">Názov fóra</string>
+    <string name="forum_top_title">Najlepšie</string>
+    <string name="forums">Fóra</string>
+    <string name="help">Pomoc</string>
+    <string name="inbox_title">Doručená pošta</string>
+    <string name="last_post">Posledný príspevok</string>
+    <string name="loading">Načítavanie…</string>
+    <string name="logging_in">Prihlasovanie…</string>
+    <string name="login">Prihlásiť</string>
+    <string name="logout">Odhlásiť</string>
+    <string name="lorem_long">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed porta pretium urna, at sagittis turpis posuere nec. Quisque vulputate dignissim metus, eget eleifend tortor commodo ultrices. Cras eros ante, faucibus sit amet eleifend at, rhoncus ut dolor. Suspendisse cursus sollicitudin elit, sit amet porta ante interdum id. Maecenas feugiat, neque eget lobortis volutpat, metus neque fermentum erat, at tincidunt purus purus in justo. Curabitur consectetur augue non elit porttitor rhoncus. Pellentesque accumsan congue blandit. Mauris tincidunt congue velit. Quisque gravida at sem in rhoncus. Curabitur id lectus sed lectus ultrices aliquet a vitae augue. Sed eu euismod nisi, vitae semper nulla. Proin mauris orci, efficitur sed nunc sed, dictum maximus lectus. Cras fringilla suscipit nisl, sit amet scelerisque leo tincidunt ut. </string>
+    <string name="mark_read">Označiť ako prečítané</string>
+    <string name="mark_unread">Označiť ako neprečítané</string>
+    <string name="mentions">Zmienky</string>
+    <string name="menu_add_attachment">Vložiť prílohu</string>
+    <string name="menu_author_profile">Profil autora</string>
+    <string name="menu_copy_content">Skopírovať obsah</string>
+    <string name="menu_open_browser">Otvoriť v prehliadači</string>
+    <string name="menu_profile_change_password">Zmeniť heslo</string>
+    <string name="menu_profile_update_email">Zmeniť e-mail</string>
+    <string name="menu_send_message">Poslať správu autorovi</string>
+    <string name="message_content">Obsah správy</string>
+    <string name="message_delete_successful">Úspešne vymazaná správa</string>
+    <string name="message_reply_failed">Odpoveď na správu zlyhala</string>
+    <string name="message_reply_success">Odpoveď na správu bola úspešná</string>
+    <string name="message_subject">Predmet správy</string>
+    <string name="more_xda">Viac XDA</string>
+    <string name="multi_quote">Viacnásobné citovanie</string>
+    <string name="my_devices">Moje zariadenia</string>
+    <string name="new_message_send_failed">Odosielanie správy zlyhalo</string>
+    <string name="new_message_send_successful">Správa úspešne odoslaná</string>
+    <string name="news">Novinky</string>
+    <string name="no_internet_connection">Prosím, pripojte sa k internetu</string>
+    <string name="no_items_empty_view">Tu nie je nič</string>
+    <string name="notifications">Upozornenia</string>
+    <string name="one_account_allowed">Môže byť pridaný iba jeden XDA účet</string>
+    <string name="or">alebo</string>
+    <string name="other">Iné</string>
+    <string name="participated">Zúčastnené</string>
+    <string name="password">Heslo</string>
+    <string name="placeholder">Zástupca</string>
+    <string name="pm">Súkromná správa</string>
+    <string name="post_creation_failed">Tvorba príspevku zlyhala</string>
+    <string name="posts_selected_number">%d zvolených príspevkov</string>
+    <string name="private_messages">Osobné správy</string>
+    <string name="profile">Profil</string>
+    <string name="quote">Citovať</string>
+    <string name="quote_mentions">Citácie/Zmienky</string>
+    <string name="quotes">Citácie</string>
+    <string name="read_more">Prečítať viac</string>
+    <string name="recaptcha">reCAPTCHA</string>
+    <string name="register">Registrovať</string>
+    <string name="register_email">Registrovať cez e-mail</string>
+    <string name="remove_thanks">Odstrániť poďakovanie</string>
+    <string name="reply_count">Počet odpovedí</string>
+    <string name="replying_to">Odpovedať: %s</string>
+    <string name="search">Hladať</string>
+    <string name="send">Odoslať</string>
+    <string name="sent_items_title">Odoslané</string>
+    <string name="settings">Nastavenia</string>
+    <string name="share">Zdielať</string>
+    <string name="sign_in">Prihlásiť</string>
+    <string name="sign_in_google_plus">g+ Prihlásiť sa cez Google</string>
+    <string name="sign_in_title">Prihlásiť/Registrovať</string>
+    <string name="subscribe">Sledovať</string>
+    <string name="subscribed">Sledované</string>
+    <string name="thanks">Vďaka</string>
+    <string name="thread_subscription_subscribed">Odteraz sledujete tento príspevok</string>
+    <string name="thread_subscription_toggle_failed">Zvolenie sledovania príspevku zlyhalo</string>
+    <string name="thread_subscription_unsubscribed">Odteraz nesledujete tento príspevok</string>
+    <string name="thread_title">Názov príspevku</string>
+    <string name="threads">Príspevky</string>
+    <string name="title">Názov</string>
+    <string name="to">Pre</string>
+    <string name="unsubscribe">Nesledovať</string>
+    <string name="user">Používateľ</string>
+    <string name="user_profile">Profil používateľa</string>
+    <string name="user_profile_devices">Zariadenia:\n%1$s</string>
+    <string name="user_profile_email">E-mail:\n%1$s</string>
+    <string name="user_profile_post_count">Počet príspevkov:\n%1$d</string>
+    <string name="user_profile_signature">Podpis:\n%1$s</string>
+    <string name="user_profile_thanked_posts_count">Počet poďakovaných príspevkov:\n%1$d</string>
+    <string name="user_profile_title">Názov:\n%1$s</string>
+    <string name="username">Prezývka</string>
+    <string name="views">Zhliadnutia</string>
+    <string name="xda_news">XDA Novinky</string>
+</resources>

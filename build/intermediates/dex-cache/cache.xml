@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Sitaram Sharma\.gradle\caches\modules-2\files-2.1\org.apache.ant\ant\1.7.0\9746af1a485e50cf18dcb232489032a847067066\ant-1.7.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9746af1a485e50cf18dcb232489032a847067066">
+        <dex dex="C:\SRS_DATA\TA Projects DATA\XDA\XDA-One-master1612\XDA-One-master\android\build\intermediates\pre-dexed\full\debug\ant-1.7.0-f5175b537dd011d6d183e3286040526c1b407bd7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sitaram Sharma\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-annotations\2.4.2\6bb52af09372d5064206d47d7887d41671f00f7d\jackson-annotations-2.4.2.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="6bb52af09372d5064206d47d7887d41671f00f7d">
+        <dex dex="C:\SRS_DATA\TA Projects DATA\XDA\XDA-One-master1612\XDA-One-master\android\build\intermediates\pre-dexed\full\debug\jackson-annotations-2.4.2-ed67dbf6af0e70be2e13ed16c94821a49163e52b.jar" />
+    </item>
+    <item
+        jar="C:\SRS_DATA\TA Projects DATA\XDA\XDA-One-master1612\XDA-One-master\android\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="C:\SRS_DATA\TA Projects DATA\XDA\XDA-One-master1612\XDA-One-master\android\build\intermediates\pre-dexed\full\debug\classes-8dd9a49ded250ce2217046e2d54e37861961400b.jar" />
+    </item>
+    <item
+        jar="C:\SRS_DATA\TA Projects DATA\XDA\XDA-One-master1612\XDA-One-master\android\libs\kefirbb-1.1-SNAPSHOT.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="7584e6572f6a43ada8acade917926b8da967d39a">
+        <dex dex="C:\SRS_DATA\TA Projects DATA\XDA\XDA-One-master1612\XDA-One-master\android\build\intermediates\pre-dexed\full\debug\kefirbb-1.1-SNAPSHOT-378d919d7a56d9cbbef924db060a329a95f411ee.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sitaram Sharma\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\retrofit\1.6.1\efb0a36546aa8857ab8df358b106c1817e03cbee\retrofit-1.6.1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="efb0a36546aa8857ab8df358b106c1817e03cbee">
+        <dex dex="C:\SRS_DATA\TA Projects DATA\XDA\XDA-One-master1612\XDA-One-master\android\build\intermediates\pre-dexed\full\debug\retrofit-1.6.1-a84b291e745e5cfddafc1ccbe484eaa0b209ec42.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sitaram Sharma\Documents\GitHub\XDA-One-master\android\build\intermediates\exploded-aar\com.google.android.gms\play-services\5.0.89\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="d71573c9c5ea98a8db47ad6ff993a63d492b3bfa">
+        <dex dex="C:\Users\Sitaram Sharma\Documents\GitHub\XDA-One-master\android\build\intermediates\pre-dexed\full\debug\classes-0f7fe48428bcbb58db10300ae7d0977dc4facd44.jar" />
+    </item>
+    <item
+        jar="C:\SRS_DATA\TA Projects DATA\XDA\XDA-One-master1612\XDA-One-master\android\build\intermediates\exploded-aar\com.github.dmytrodanylyk.circular-progress-button\library\1.1.2\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="425a76d746cfc96229944b8db10b214a02c50773">
+        <dex dex="C:\SRS_DATA\TA Projects DATA\XDA\XDA-One-master1612\XDA-One-master\android\build\intermediates\pre-dexed\full\debug\classes-300925e6059b3d2a5e196e21659314ce99710b57.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sitaram Sharma\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.2.4\a60a5e993c98c864010053cb901b7eab25306568\gson-2.2.4.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="C:\SRS_DATA\TA Projects DATA\XDA\XDA-One-master1612\XDA-One-master\android\build\intermediates\pre-dexed\full\debug\gson-2.2.4-4a3f032cad870265f05b3be5aeeb773d69cb70de.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sitaram Sharma\.gradle\caches\modules-2\files-2.1\com.osbcp.cssparser\cssparser\1.5\354572fed1f4159827c4734930898811391ce354\cssparser-1.5.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="354572fed1f4159827c4734930898811391ce354">
+        <dex dex="C:\SRS_DATA\TA Projects DATA\XDA\XDA-One-master1612\XDA-One-master\android\build\intermediates\pre-dexed\full\debug\cssparser-1.5-cd0c1007a1a59e4838d4960ed1d4d5401d3e36a2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sitaram Sharma\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.3.3\1262995965440e28ba5c4d480c9c9ab4ccce84cc\picasso-2.3.3.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="1262995965440e28ba5c4d480c9c9ab4ccce84cc">
+        <dex dex="C:\SRS_DATA\TA Projects DATA\XDA\XDA-One-master1612\XDA-One-master\android\build\intermediates\pre-dexed\full\debug\picasso-2.3.3-8b2c5e993a4c4ac9f4a53b0ce9c6160de54ae297.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sitaram Sharma\Documents\GitHub\XDA-One-master\android\build\intermediates\exploded-aar\XDA-One-master.libraries\cardview-v7\unspecified\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="60874b814b0891a3a7e3a5d90552fbfb7391ff8d">
+        <dex dex="C:\Users\Sitaram Sharma\Documents\GitHub\XDA-One-master\android\build\intermediates\pre-dexed\full\debug\classes-9b411e20b710b614cfad5554602a9e081df03bfd.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sitaram Sharma\.gradle\caches\modules-2\files-2.1\commons-io\commons-io\2.4\b1b6ea3b7e4aa4f492509a4952029cd8e48019ad\commons-io-2.4.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="C:\SRS_DATA\TA Projects DATA\XDA\XDA-One-master1612\XDA-One-master\android\build\intermediates\pre-dexed\full\debug\commons-io-2.4-2d51b5e96d23a384e61dc74c75d8e80eb0858805.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sitaram Sharma\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.4.2\ceb72830d95c512b4b300a38f29febc85bdf6e4b\jackson-core-2.4.2.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="ceb72830d95c512b4b300a38f29febc85bdf6e4b">
+        <dex dex="C:\SRS_DATA\TA Projects DATA\XDA\XDA-One-master1612\XDA-One-master\android\build\intermediates\pre-dexed\full\debug\jackson-core-2.4.2-6515d1844b88bf88ecf634dd435e6664ca82f86f.jar" />
+    </item>
+    <item
+        jar="C:\SRS_DATA\TA Projects DATA\XDA\XDA-One-master1612\XDA-One-master\android\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="C:\SRS_DATA\TA Projects DATA\XDA\XDA-One-master1612\XDA-One-master\android\build\intermediates\pre-dexed\full\debug\classes-052e7ccec214b953c54fd35389bbb20096897139.jar" />
+    </item>
+    <item
+        jar="C:\SRS_DATA\Android\Studio\extras\android\m2repository\com\android\support\support-annotations\21.0.2\support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="C:\SRS_DATA\TA Projects DATA\XDA\XDA-One-master1612\XDA-One-master\android\build\intermediates\pre-dexed\full\debug\support-annotations-21.0.2-2675053d9015a40b87057ad262d74b15b04c7d8c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sitaram Sharma\.gradle\caches\modules-2\files-2.1\org.apache.commons\commons-lang3\3.3.2\90a3822c38ec8c996e84c16a3477ef632cbc87a3\commons-lang3-3.3.2.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="90a3822c38ec8c996e84c16a3477ef632cbc87a3">
+        <dex dex="C:\SRS_DATA\TA Projects DATA\XDA\XDA-One-master1612\XDA-One-master\android\build\intermediates\pre-dexed\full\debug\commons-lang3-3.3.2-5f20c88ce0d4ac97fd01345088453ec7a105f462.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sitaram Sharma\Documents\GitHub\XDA-One-master\android\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\libs\internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="C:\Users\Sitaram Sharma\Documents\GitHub\XDA-One-master\android\build\intermediates\pre-dexed\full\debug\internal_impl-21.0.2-d0ab517e022f6e0a28a9f1c07ac2195c5977ec27.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sitaram Sharma\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\converter-jackson\1.6.1\69b73fb5c75ba80d44fb2db6ebe8168a4f5f74c9\converter-jackson-1.6.1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="69b73fb5c75ba80d44fb2db6ebe8168a4f5f74c9">
+        <dex dex="C:\SRS_DATA\TA Projects DATA\XDA\XDA-One-master1612\XDA-One-master\android\build\intermediates\pre-dexed\full\debug\converter-jackson-1.6.1-4cd26eb201ae6f4f839744174fff7d81e525edd4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sitaram Sharma\Documents\GitHub\XDA-One-master\android\build\intermediates\exploded-aar\me.grantland\autofittextview\0.2.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="81db45283d36bfc6e3380c325fb09b2283f36775">
+        <dex dex="C:\Users\Sitaram Sharma\Documents\GitHub\XDA-One-master\android\build\intermediates\pre-dexed\full\debug\classes-1243883bfd20e5ba9039b9d7d590b897f55428d7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sitaram Sharma\.gradle\caches\modules-2\files-2.1\com.squareup\otto\1.3.5\7941cd2c2c8ec006800d75c35f8a9dacf892ab93\otto-1.3.5.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="7941cd2c2c8ec006800d75c35f8a9dacf892ab93">
+        <dex dex="C:\SRS_DATA\TA Projects DATA\XDA\XDA-One-master1612\XDA-One-master\android\build\intermediates\pre-dexed\full\debug\otto-1.3.5-322711ea4f9d43138acd02bf0a196bc35780fe8d.jar" />
+    </item>
+    <item
+        jar="C:\SRS_DATA\TA Projects DATA\XDA\XDA-One-master1612\XDA-One-master\android\build\intermediates\exploded-aar\com.makeramen\roundedimageview\1.3.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="3812f89e64ae0e865df72574ffe7c5a516e1cc91">
+        <dex dex="C:\SRS_DATA\TA Projects DATA\XDA\XDA-One-master1612\XDA-One-master\android\build\intermediates\pre-dexed\full\debug\classes-28b43815d0b87202714a727e8e2ccd542371dc93.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sitaram Sharma\Documents\GitHub\XDA-One-master\android\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="C:\Users\Sitaram Sharma\Documents\GitHub\XDA-One-master\android\build\intermediates\pre-dexed\full\debug\classes-ec6b23a1c20dfc2f6fc741f383be879d1ae779f5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sitaram Sharma\Documents\GitHub\XDA-One-master\android\build\intermediates\exploded-aar\XDA-One-master.libraries\recyclerview-v7\unspecified\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="3e5cd38631470f5578935cd8201b99759a78fda0">
+        <dex dex="C:\Users\Sitaram Sharma\Documents\GitHub\XDA-One-master\android\build\intermediates\pre-dexed\full\debug\classes-39f89f4051b1fd60b83cad8a64b2db070107ffc5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sitaram Sharma\.gradle\caches\modules-2\files-2.1\net.sourceforge.htmlcleaner\htmlcleaner\2.2\57fa6883b2f299d04a769d0daaa0c4ebf20ed4\htmlcleaner-2.2.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="0057fa6883b2f299d04a769d0daaa0c4ebf20ed4">
+        <dex dex="C:\SRS_DATA\TA Projects DATA\XDA\XDA-One-master1612\XDA-One-master\android\build\intermediates\pre-dexed\full\debug\htmlcleaner-2.2-4ce2891e8eec365a676612a52fc7374d713ec152.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sitaram Sharma\.gradle\caches\modules-2\files-2.1\org.jdom\jdom\1.1\1d04c0f321ea337f3661cf7ede8f4c6f653a8fdd\jdom-1.1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="1d04c0f321ea337f3661cf7ede8f4c6f653a8fdd">
+        <dex dex="C:\SRS_DATA\TA Projects DATA\XDA\XDA-One-master1612\XDA-One-master\android\build\intermediates\pre-dexed\full\debug\jdom-1.1-8012138befa25fa028a3f7d9be9715b40e747a7b.jar" />
+    </item>
+    <item
+        jar="C:\SRS_DATA\TA Projects DATA\XDA\XDA-One-master1612\XDA-One-master\android\build\intermediates\exploded-aar\com.google.android.gms\play-services\5.0.89\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="d71573c9c5ea98a8db47ad6ff993a63d492b3bfa">
+        <dex dex="C:\SRS_DATA\TA Projects DATA\XDA\XDA-One-master1612\XDA-One-master\android\build\intermediates\pre-dexed\full\debug\classes-152b327968d37b084371c31f4afd4e7be4ccff34.jar" />
+    </item>
+    <item
+        jar="C:\SRS_DATA\TA Projects DATA\XDA\XDA-One-master1612\XDA-One-master\android\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\libs\internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="C:\SRS_DATA\TA Projects DATA\XDA\XDA-One-master1612\XDA-One-master\android\build\intermediates\pre-dexed\full\debug\internal_impl-21.0.2-8cca990b2582d9396d757384e402ca6ebfd8b7f2.jar" />
+    </item>
+    <item
+        jar="C:\SRS_DATA\TA Projects DATA\XDA\XDA-One-master1612\XDA-One-master\android\build\intermediates\exploded-aar\XDA-One-master.libraries\cardview-v7\unspecified\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="ecfc0611ceea75bbc3d6b79902aa435dceb7bb6d">
+        <dex dex="C:\SRS_DATA\TA Projects DATA\XDA\XDA-One-master1612\XDA-One-master\android\build\intermediates\pre-dexed\full\debug\classes-9badb2b8d102853efa48c5ef121b2e6958f61281.jar" />
+    </item>
+    <item
+        jar="C:\SRS_DATA\TA Projects DATA\XDA\XDA-One-master1612\XDA-One-master\android\build\intermediates\exploded-aar\XDA-One-master.libraries\recyclerview-v7\unspecified\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="3d002f017607c1e9b18b5f079d0d042d0430ab4c">
+        <dex dex="C:\SRS_DATA\TA Projects DATA\XDA\XDA-One-master1612\XDA-One-master\android\build\intermediates\pre-dexed\full\debug\classes-78eb2eb3efbe9944a97a4bae54f4a4d1adda843f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sitaram Sharma\Documents\GitHub\XDA-One-master\android\build\intermediates\exploded-aar\com.makeramen\roundedimageview\1.3.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="3812f89e64ae0e865df72574ffe7c5a516e1cc91">
+        <dex dex="C:\Users\Sitaram Sharma\Documents\GitHub\XDA-One-master\android\build\intermediates\pre-dexed\full\debug\classes-765bf16686777fd931784e75231aea9850afc8f8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sitaram Sharma\.gradle\caches\modules-2\files-2.1\com.crashlytics.android\crashlytics\1.1.13\e821eafa1bf489a26bdb71f95078c26785b37a1\crashlytics-1.1.13.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="0e821eafa1bf489a26bdb71f95078c26785b37a1">
+        <dex dex="C:\SRS_DATA\TA Projects DATA\XDA\XDA-One-master1612\XDA-One-master\android\build\intermediates\pre-dexed\full\debug\crashlytics-1.1.13-98b4c2f9810bd75310d086d13f445471df36518b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sitaram Sharma\.gradle\caches\modules-2\files-2.1\net.nightwhistler.htmlspanner\htmlspanner\0.5-SNAPSHOT\58eda532863010ef6d5483716b98a09841df0326\htmlspanner-0.5-SNAPSHOT.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="58eda532863010ef6d5483716b98a09841df0326">
+        <dex dex="C:\SRS_DATA\TA Projects DATA\XDA\XDA-One-master1612\XDA-One-master\android\build\intermediates\pre-dexed\full\debug\htmlspanner-0.5-SNAPSHOT-6666f2e3f425935ac338b38e1b870caa2e836379.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sitaram Sharma\.gradle\caches\modules-2\files-2.1\org.apache.ant\ant-launcher\1.7.0\e7e30789211e074aa70ef3eaea59bd5b22a7fa7a\ant-launcher-1.7.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e7e30789211e074aa70ef3eaea59bd5b22a7fa7a">
+        <dex dex="C:\SRS_DATA\TA Projects DATA\XDA\XDA-One-master1612\XDA-One-master\android\build\intermediates\pre-dexed\full\debug\ant-launcher-1.7.0-833c8e131d467ec1127f09daf1b6244d789fbd87.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sitaram Sharma\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-databind\2.4.2\8e31266a272ad25ac4c089734d93e8d811652c1f\jackson-databind-2.4.2.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8e31266a272ad25ac4c089734d93e8d811652c1f">
+        <dex dex="C:\SRS_DATA\TA Projects DATA\XDA\XDA-One-master1612\XDA-One-master\android\build\intermediates\pre-dexed\full\debug\jackson-databind-2.4.2-b23c95d52a2f2dd2d913c39261a18b07027a1fe0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sitaram Sharma\Documents\GitHub\XDA-One-master\android\libs\kefirbb-1.1-SNAPSHOT.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="7584e6572f6a43ada8acade917926b8da967d39a">
+        <dex dex="C:\Users\Sitaram Sharma\Documents\GitHub\XDA-One-master\android\build\intermediates\pre-dexed\full\debug\kefirbb-1.1-SNAPSHOT-6c2026c6ba92460eb2963d9314347fab4d8abb14.jar" />
+    </item>
+    <item
+        jar="C:\SRS_DATA\TA Projects DATA\XDA\XDA-One-master1612\XDA-One-master\android\build\intermediates\exploded-aar\me.grantland\autofittextview\0.2.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="81db45283d36bfc6e3380c325fb09b2283f36775">
+        <dex dex="C:\SRS_DATA\TA Projects DATA\XDA\XDA-One-master1612\XDA-One-master\android\build\intermediates\pre-dexed\full\debug\classes-e41fc2b998a71cf53a9951e95e6c78d5f5240776.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sitaram Sharma\Documents\GitHub\XDA-One-master\android\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="C:\Users\Sitaram Sharma\Documents\GitHub\XDA-One-master\android\build\intermediates\pre-dexed\full\debug\classes-c00e827402a8c6d3d05c09472ed87890a38b9fb0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sitaram Sharma\Documents\GitHub\XDA-One-master\android\build\intermediates\exploded-aar\com.github.dmytrodanylyk.circular-progress-button\library\1.1.2\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="425a76d746cfc96229944b8db10b214a02c50773">
+        <dex dex="C:\Users\Sitaram Sharma\Documents\GitHub\XDA-One-master\android\build\intermediates\pre-dexed\full\debug\classes-232bfb20bbfce9dca889106f8d4159ae23571c92.jar" />
+    </item>
+
+</items>

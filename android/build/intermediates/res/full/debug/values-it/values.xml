@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/C:/Users/Sitaram%20Sharma/Documents/GitHub/XDA-One-master/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values-it/values.xml -->
+    <eat-comment/>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Vai alla home page"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Vai in alto"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Altre opzioni"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Fine"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Visualizza tutte"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Scegli un\'applicazione"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Cancella query"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Query di ricerca"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Cerca"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Invia query"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Ricerca vocale"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Condividi con"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Condividi con %s"</string>
+    <!-- From: file:/C:/Users/Sitaram%20Sharma/Documents/GitHub/XDA-One-master/android/src/main/res/values-it/strings.xml -->
+    <eat-comment/>
+    <string name="about">Info</string>
+    <string name="app_name">XDA One</string>
+    <string name="avatar">Avatar</string>
+    <string name="change_email_address">Cambia indirizzo email</string>
+    <string name="change_password">Cambia password</string>
+    <!-- From: file:/C:/Users/Sitaram%20Sharma/Documents/GitHub/XDA-One-master/android/build/intermediates/exploded-aar/com.google.android.gms/play-services/5.0.89/res/values-it/common_strings.xml -->
+    <eat-comment/>
+    <string msgid="4181637455539816337" name="common_google_play_services_enable_button">"Attiva Google Play Services"</string>
+    <string msgid="7627896071867667758" name="common_google_play_services_enable_text">"L\'app non funzionerà se non attivi Google Play Services."</string>
+    <string msgid="529078775174559253" name="common_google_play_services_enable_title">"Attiva Google Play Services"</string>
+    <string msgid="2443362625939284971" name="common_google_play_services_error_notification_requested_by_msg">"Richiesta da <ns1:g id="APP_NAME">%1$s</ns1:g>"</string>
+    <string msgid="8515591849428043265" name="common_google_play_services_install_button">"Installa Google Play Services"</string>
+    <string msgid="8685301130651051380" name="common_google_play_services_install_text_phone">"L\'app non funzionerà senza Google Play Services, non presente sul tuo telefono."</string>
+    <string msgid="1589957570365247855" name="common_google_play_services_install_text_tablet">"L\'app non funzionerà senza Google Play Services, non presente sul tuo tablet."</string>
+    <string msgid="26645092511305524" name="common_google_play_services_install_title">"Installa Google Play Services"</string>
+    <string msgid="4983316348021735578" name="common_google_play_services_invalid_account_text">"L\'account specificato non esiste su questo dispositivo. Scegli un altro account."</string>
+    <string msgid="1066672360770936753" name="common_google_play_services_invalid_account_title">"Account non valido"</string>
+    <string msgid="2583358409598976717" name="common_google_play_services_needs_enabling_title">"Un\'applicazione richiede l\'attivazione di Google Play Services."</string>
+    <string msgid="9038847255613537209" name="common_google_play_services_network_error_text">"È necessaria una connessione dati per connettersi a Google Play Services."</string>
+    <string msgid="3827284619958211114" name="common_google_play_services_network_error_title">"Errore di rete"</string>
+    <string msgid="8120534356798772974" name="common_google_play_services_notification_needs_installation_title">"Un\'applicazione richiede l\'installazione di Google Play Services."</string>
+    <string msgid="1388129345631079938" name="common_google_play_services_notification_needs_update_title">"Un\'applicazione richiede un aggiornamento di Google Play Services."</string>
+    <string msgid="1852570676146674985" name="common_google_play_services_notification_ticker">"Errore Google Play Services"</string>
+    <string msgid="4762332809710093730" name="common_google_play_services_unknown_issue">"Problema sconosciuto con Google Play Services."</string>
+    <string msgid="4725396522367789365" name="common_google_play_services_unsupported_date_text">"La data sul dispositivo sembra sbagliata. Controllala."</string>
+    <string msgid="3542578567569488671" name="common_google_play_services_unsupported_text">"La piattaforma Google Play Services, su cui sono basate alcune delle tue applicazioni, non è supportata dal dispositivo in uso. Per assistenza, contatta il produttore."</string>
+    <string msgid="6334768798839376943" name="common_google_play_services_unsupported_title">"Google Play Services"</string>
+    <string msgid="8932944190611227642" name="common_google_play_services_update_button">"Aggiorna"</string>
+    <string msgid="448354684997260580" name="common_google_play_services_update_text">"L\'app non funzionerà se non aggiorni Google Play Services."</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">"Aggiorna Google Play Services"</string>
+    <string msgid="9071884888741449141" name="common_signin_button_text">"Accedi"</string>
+    <string msgid="2429381841831957106" name="common_signin_button_text_long">"Accedi con Google"</string>
+    <!-- From: file:/C:/Users/Sitaram%20Sharma/Documents/GitHub/XDA-One-master/android/src/main/res/values-it/strings.xml -->
+    <eat-comment/>
+    <string name="content">Contenuto</string>
+    <string name="count">Contatore</string>
+    <string name="creating_new_post">Creazione…</string>
+    <string name="d_items_checked">%d elementi selezionati</string>
+    <string name="date">Data</string>
+    <string name="delete">Elimina</string>
+    <string name="dont_have_xda_account">
+        <![CDATA[Ancora non hai un account su xda-developers?]]></string>
+    <string name="drawer_close">Chiudi</string>
+    <string name="drawer_open">Apri</string>
+    <string name="email">Email</string>
+    <string name="failed_to_get_forum">Impossibile prendere il link</string>
+    <string name="failed_to_logout">Logout fallito</string>
+    <string name="find_a_device">Trova un dispositivo</string>
+    <string name="find_your_device">Trova il tuo dispositivo</string>
+    <string name="find_your_device_title">Trova il tuo dispositivo</string>
+    <string name="forum_all_title">Tutto</string>
+    <string name="forum_general_title">Generale</string>
+    <string name="forum_home_title">XDA Home</string>
+    <string name="forum_newest_title">Nuovi</string>
+    <string name="forum_subscription_subscribed">Iscrizione al forum riuscita</string>
+    <string name="forum_subscription_toggle_failed">Cambio stato di sottoscrizione fallito</string>
+    <string name="forum_subscription_unsubscribed">Iscrizione al forum rimossa</string>
+    <string name="forum_title">Titolo forum</string>
+    <string name="forum_top_title">Top</string>
+    <string name="forums">Forum</string>
+    <string name="help">Aiuto</string>
+    <string name="inbox_title">Inbox</string>
+    <string name="last_post">Ultimo post</string>
+    <string name="loading">Caricamento…</string>
+    <string name="logging_in">Accesso in corso…</string>
+    <string name="login">Accedi</string>
+    <string name="logout">Esci</string>
+    <string name="lorem_long">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed porta pretium urna, at sagittis turpis posuere nec. Quisque vulputate dignissim metus, eget eleifend tortor commodo ultrices. Cras eros ante, faucibus sit amet eleifend at, rhoncus ut dolor. Suspendisse cursus sollicitudin elit, sit amet porta ante interdum id. Maecenas feugiat, neque eget lobortis volutpat, metus neque fermentum erat, at tincidunt purus purus in justo. Curabitur consectetur augue non elit porttitor rhoncus. Pellentesque accumsan congue blandit. Mauris tincidunt congue velit. Quisque gravida at sem in rhoncus. Curabitur id lectus sed lectus ultrices aliquet a vitae augue. Sed eu euismod nisi, vitae semper nulla. Proin mauris orci, efficitur sed nunc sed, dictum maximus lectus. Cras fringilla suscipit nisl, sit amet scelerisque leo tincidunt ut. </string>
+    <string name="mark_read">Segna come letto</string>
+    <string name="mark_unread">Segna come non letto</string>
+    <string name="mentions">Menzioni</string>
+    <string name="menu_add_attachment">Aggiungi allegato</string>
+    <string name="menu_author_profile">Vedi profilo utente</string>
+    <string name="menu_copy_content">Copia contenuto post</string>
+    <string name="menu_open_browser">Apri nel browser</string>
+    <string name="menu_profile_change_password">Cambio password</string>
+    <string name="menu_profile_update_email">Aggiorna email</string>
+    <string name="menu_send_message">Invia messaggio all\'utente</string>
+    <string name="message_content">Contenuto messaggio</string>
+    <string name="message_delete_successful">Messaggio eliminato con successo</string>
+    <string name="message_reply_failed">Impossibile inviare la risposta</string>
+    <string name="message_reply_success">Risposta inviata con successo</string>
+    <string name="message_subject">Oggetto</string>
+    <string name="more_xda">Di più su XDA</string>
+    <string name="multi_quote">Quote multiplo</string>
+    <string name="my_devices">I miei dispositivi</string>
+    <string name="new_message_send_failed">Invio messaggio fallito</string>
+    <string name="new_message_send_successful">Messaggio inviato</string>
+    <string name="news">Novità</string>
+    <string name="no_internet_connection">Per favore collegarsi ad internet</string>
+    <string name="no_items_empty_view">Nessun elemento da mostrare</string>
+    <string name="notifications">Notifiche</string>
+    <string name="one_account_allowed">Puoi avere solo un account di XDA alla volta</string>
+    <string name="or">oppure</string>
+    <string name="other">Altro</string>
+    <string name="participated">Partecipati</string>
+    <string name="password">Password</string>
+    <string name="placeholder">Testo</string>
+    <string name="pm">PM</string>
+    <string name="post_creation_failed">Creazione del post fallita</string>
+    <string name="posts_selected_number">%d post selezionati</string>
+    <string name="private_messages">Messaggi privati</string>
+    <string name="profile">Profilo</string>
+    <string name="quote">Quota</string>
+    <string name="quote_mentions">Quote/Menziono</string>
+    <string name="quotes">Quote</string>
+    <string name="read_more">Leggi altro</string>
+    <string name="recaptcha">Un altro CAPTCHA</string>
+    <string name="register">Registrati</string>
+    <string name="register_email">Registrati usando l\'email</string>
+    <string name="remove_thanks">Rimuovi thanks</string>
+    <string name="reply_count">Contatore risposte</string>
+    <string name="replying_to">Invio risposta a: %s</string>
+    <string name="search">Cerca</string>
+    <string name="send">Invia</string>
+    <string name="sent_items_title">Inviati</string>
+    <string name="settings">Impostazioni</string>
+    <string name="share">Condividi</string>
+    <string name="sign_in">Accedi</string>
+    <string name="sign_in_google_plus">g+ Accedi con Google</string>
+    <string name="sign_in_title">Accedi/Registrati</string>
+    <string name="something_went_wrong_request">Qualcosa è andato storto con la tua richiesta</string>
+    <string name="subscribe">Sottoscrivi</string>
+    <string name="subscribed">Sottoscritti</string>
+    <string name="thanks">Thanks</string>
+    <string name="thread_subscription_subscribed">Iscrizione al thread riuscita</string>
+    <string name="thread_subscription_toggle_failed">Cambio stato di sottoscrizione
+        fallito</string>
+    <string name="thread_subscription_unsubscribed">Iscrizione al thread rimossa</string>
+    <string name="thread_title">Titolo thread</string>
+    <string name="threads">Thread</string>
+    <string name="title">Titolo</string>
+    <string name="to">A</string>
+    <string name="unable_to_refresh">Impossibile aggiornare</string>
+    <string name="unsubscribe">Elimina sottoscrizione</string>
+    <string name="user">Utente</string>
+    <string name="user_profile">Profilo utente</string>
+    <string name="user_profile_devices">Dispositivi:\n%1$s</string>
+    <string name="user_profile_email">Email:\n%1$s</string>
+    <string name="user_profile_post_count">Numero post:\n%1$d</string>
+    <string name="user_profile_signature">Firma:\n%1$s</string>
+    <string name="user_profile_thanked_posts_count">Post con thanks ricevuti:\n%1$d</string>
+    <string name="user_profile_title">Titolo:\n%1$s</string>
+    <string name="username">Nome utente</string>
+    <string name="views">Visualizzazioni</string>
+    <string name="xda_news">Novità di XDA</string>
+</resources>

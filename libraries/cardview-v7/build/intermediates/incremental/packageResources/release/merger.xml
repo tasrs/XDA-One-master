@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\Users\Sitaram Sharma\Documents\GitHub\XDA-One-master\libraries\cardview-v7\src\main\res"><file path="C:\Users\Sitaram Sharma\Documents\GitHub\XDA-One-master\libraries\cardview-v7\src\main\res\values\values.xml" qualifiers=""><style name="CardView.Dark">
+        <item name="cardBackgroundColor">@color/cardview_dark_background</item>
+    </style><color name="cardview_light_background">#FFFAFAFA</color><style name="CardView.Light">
+        <item name="cardBackgroundColor">@color/cardview_light_background</item>
+    </style><color name="cardview_shadow_end_color">#03000000</color><style name="CardView">
+        <item name="cardBackgroundColor">@color/cardview_light_background</item>
+    </style><dimen name="cardview_default_radius">2dp</dimen><color name="cardview_dark_background">#FF202020</color><dimen name="cardview_shadow_size">2dp</dimen><dimen name="cardview_elevation">2dp</dimen><color name="cardview_shadow_start_color">#37000000</color><declare-styleable name="CardView">
+        <!-- Background color for CardView. -->
+        <attr format="color" name="cardBackgroundColor"/>
+        <!-- Corner radius for CardView. -->
+        <attr format="dimension" name="cardCornerRadius"/>
+    </declare-styleable></file></source><source path="C:\Users\Sitaram Sharma\Documents\GitHub\XDA-One-master\libraries\cardview-v7\build\generated\res\rs\release"/><source path="C:\Users\Sitaram Sharma\Documents\GitHub\XDA-One-master\libraries\cardview-v7\build\generated\res\generated\release"/></dataSet><dataSet config="release"><source path="C:\Users\Sitaram Sharma\Documents\GitHub\XDA-One-master\libraries\cardview-v7\src\release\res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="CardView"><attr format="color" name="cardBackgroundColor"/><attr format="dimension" name="cardCornerRadius"/></declare-styleable></configuration></mergedItems></merger>
